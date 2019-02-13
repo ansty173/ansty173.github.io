@@ -64,6 +64,12 @@ body {
 	display:none;
 }
 
+#img {
+	float: left;
+	width: 240px;
+	height: 200px;
+	background-color: #000;
+}
 #code {
 	float: left;
 	width: 440px;
